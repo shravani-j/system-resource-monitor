@@ -1,0 +1,9 @@
+{
+    "java.project.sourcePaths": [
+        "."
+    ],
+    "java.project.referencedLibraries": [
+        "lib\\xchart-3.8.8.jar",
+        "c:\\Users\\shrav\\Desktop\\system-resource-monitor\\lib\\xchart-3.8.8.jar"
+    ]
+}
